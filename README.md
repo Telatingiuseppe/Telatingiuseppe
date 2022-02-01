@@ -8,7 +8,7 @@ I'm currently attending a Master's Degree in Economics and Finance at Ca' Foscar
 Matlab / R / Python / C++ / Latex / HTML
 
 ## Projects
-<img src="https://github.com/Telatingiuseppe/Telatingiuseppe/blob/main/TradingStrategiesonOptions.gif" width="256" />
+<img src="https://github.com/Telatingiuseppe/Telatingiuseppe/blob/main/TradingStrategiesonOptions.gif" width="500" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/giuseppetelatin//)  
 
