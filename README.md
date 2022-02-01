@@ -1,5 +1,5 @@
-![Finance](https://miro.medium.com/max/1400/1*ysUpN7qsoEA8JvTuErUfKQ.png)
 # :accordion: Giuseppe Telatin :man_student:
+![Finance](https://miro.medium.com/max/1400/1*ysUpN7qsoEA8JvTuErUfKQ.png)
 
 ## Finance, Machine Learning, Agent-based modelling
 I'm currently attending a Master's Degree in Economics and Finance at Ca' Foscari University. 
