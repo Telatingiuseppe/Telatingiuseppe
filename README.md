@@ -10,6 +10,7 @@ Matlab / R / Python / C++ / Latex / HTML
 ## Projects
 <img src="https://github.com/Telatingiuseppe/Telatingiuseppe/blob/main/TradingStrategiesOptions.gif" width="700" />
 
+## Find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/giuseppetelatin//)  
 
 
