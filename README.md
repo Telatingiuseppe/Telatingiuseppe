@@ -1,4 +1,4 @@
-### Hi there 👋, Giuseppe Telatin
+### *charts* Giuseppe Telatin
 #### Finance
 ![Finance](https://miro.medium.com/max/1400/1*ysUpN7qsoEA8JvTuErUfKQ.png)
 
